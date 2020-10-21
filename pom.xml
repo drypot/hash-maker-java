@@ -49,8 +49,8 @@
         <configuration>
           <archive>
             <manifest>
+              <addClasspath>true</addClasspath>
               <mainClass>com.drypot.utils.Main</mainClass>
-              <packageName>com.drypot.utils</packageName>
             </manifest>
           </archive>
         </configuration>
